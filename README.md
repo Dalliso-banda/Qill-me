@@ -70,4 +70,4 @@ Contributions, suggestions, and feedback are welcome! Please open an issue or su
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the BSD 3-Clause License.
